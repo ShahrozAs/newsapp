@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Aaron Gregg",
+            "title": "Virgin Orbit to lay off 85 percent of staff amid operational pause - The Washington Post",
+            "description": "The rocket company failed to secure enough money from investors to continue funding its operations at the current level.",
+            "url": "https://www.washingtonpost.com/technology/2023/03/31/virgin-orbit-layoffs/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ICQJPZWEBMI63AVHNKDVKXAYPA.jpg&w=1440",
+            "publishedAt": "2023-03-31T14:26:11Z",
+            "content": "Comment on this story\r\nVirgin Orbit, the rocket company spun off from billionaire Richard Bransons spaceflight company, will lay off most of its staff and freeze operations after it failed to raise e… [+2689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "FOX Business",
+            "title": "STOCK MARKET NEWS: Fed’s inflation gauge, Virgin Orbit ceases operations, Bed Bath & Beyond spirals - Fox Business",
+            "description": "The Federal Reserve’s favorite inflation gauge eases, Virgin Orbit ceasing operations sinking shares, Bed Bath & Beyond’s survival in question, Elon Musk seeks high level China meeting. FOX Business is providing real-time updates on the markets, commodities a…",
+            "url": "https://www.foxbusiness.com/live-news/stock-market-news-today-march-31-2023",
+            "urlToImage": "https://livenews.foxbusiness.com/images/2023/03/f043b71ce05adfbe0ac0c2637a765034.jpg",
+            "publishedAt": "2023-03-31T14:06:36Z",
+            "content": "<table><tr><th>Symbol</th><th>Price</th><th>Change</th><th>%Change</th></tr>\r\n<tr><td>DWAC</td><td>$13.06</td><td>-0.03</td><td>-0.23</td></tr><tr><td>PHUN</td><td>$0.64</td><td>-0.02</td><td>-3.46</… [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Morgan Smith",
+            "title": "10 in-demand side hustles you can do from home—some can pay as much as $100 an hour - CNBC",
+            "description": "The most in-demand remote, part-time gigs employers are are hiring for are in writing, editing and design, according to new research from FlexJobs.",
+            "url": "https://www.cnbc.com/2023/03/31/10-in-demand-remote-side-hustlessome-can-pay-as-much-as-100-an-hour.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217776-1680186583778-young-woman-working-from-home-talking-2023-03-27-20-27-59-utc.jpg?v=1680271086&w=1920&h=1080",
+            "publishedAt": "2023-03-31T13:58:06Z",
+            "content": "Remote job opportunities might be dwindling, but there are dozens of side hustles you can do to earn some extra cash without leaving the comfort of your home some of which can pay as much as $100 an … [+3411 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Madhumita Murgia, Silvia Sciorilli Borrelli",
+            "title": "Italy temporarily bans ChatGPT over privacy concerns - Financial Times",
+            "description": "Data protection authority becomes first regulator in world to open investigation into Microsoft-backed OpenAI’s chatbot",
+            "url": "https://www.ft.com/content/3ce7ed9d-df95-4f5f-a3c7-ec8398ce9c50",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F817ab3dd-2000-4495-8c7a-645a1285de00.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-03-31T13:48:13Z",
+            "content": "Italys privacy watchdog has banned temporarily the popular artificial intelligence service ChatGPT, after launching an investigation into the chatbots Microsoft-backed owner OpenAI.\r\nThe nations data… [+3204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Protos.com"
+            },
+            "author": "Aaron Wise",
+            "title": "SEC v. Ripple summary judgment expected in April - Protos",
+            "description": "A settlement with the SEC may have permanently bankrupted Ripple. Now, a summary judgement is expected within four weeks.",
+            "url": "https://protos.com/sec-v-ripple-summary-judgment-expected-in-april/",
+            "urlToImage": "https://protos.com/wp-content/uploads/2023/03/Protos-Artwork-RippleSECApril-SIMG.jpg",
+            "publishedAt": "2023-03-31T13:42:46Z",
+            "content": "Listen to this article.\r\nThe multi-year legal battle led by the Securities and Exchange Commission (SEC) regarding Ripples alleged unregistered securities offering could end in summary judgment by Ap… [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jim Cramer",
+            "title": "Jim Cramer's top 10 things to watch in the stock market Friday: Stars of first quarter and Alphabet's AI risk - CNBC",
+            "description": "End of the month and the first quarter on Wall Street.",
+            "url": "https://www.cnbc.com/2023/03/31/cramers-top-things-in-stock-market-friday-stars-of-q1-alphabet-ai-risk.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107072705-1654689317450-gettyimages-1041948482-87192795.jpeg?v=1680268487&w=1920&h=1080",
+            "publishedAt": "2023-03-31T13:13:20Z",
+            "content": "1. End of the month and the first quarter on Wall Street. Yields on the 10-year and 2-year Treasurys continue to obscure the forest. The Dow, the S&amp;P 500 and the Nasdaq are set for a higher open … [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Bob Pisani",
+            "title": "Wall Street lines up against SEC chair Gary Gensler on one of his most controversial proposals - CNBC",
+            "description": "Some are already threatening litigation if one of the new rules goes through.",
+            "url": "https://www.cnbc.com/2023/03/31/wall-street-lines-up-against-gensler-on-one-of-his-controversial-ideas.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106858989-1616623171633-sec.jpg?v=1680268340&w=1920&h=1080",
+            "publishedAt": "2023-03-31T13:12:20Z",
+            "content": "Today is the final day for the trading industry and investors to submit comments on one of Securities and Exchange Commission Chair Gary Gensler's most controversial proposals: a partial overhaul of … [+13721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Bloom",
+            "title": "Top analyst calls on Wall Street Friday - CNBC",
+            "description": "Here are the biggest calls on Wall Street on Friday.",
+            "url": "https://www.cnbc.com/2023/03/31/top-analyst-calls-on-wall-street-friday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107015691-16449485412022-02-15t180558z_1872005357_rc2iks9owpqo_rtrmadp_0_boeing-787-faa.jpeg?v=1680266322&w=1920&h=1080",
+            "publishedAt": "2023-03-31T12:38:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz",
+            "title": "Key inflation gauge in Europe hits record high even as overall price rises slow sharply - CNN",
+            "description": "Inflation in Europe has fallen to its slowest pace in more than a year, though stark signs of persistent underlying pressure on prices will complicate policymakers' next move on borrowing costs.",
+            "url": "https://www.cnn.com/2023/03/31/business/europe-inflation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230331112110-barcelona-shopping-032223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-31T12:22:00Z",
+            "content": "Inflation in Europe has fallen to its slowest pace in more than a year, though stark signs of persistent underlying pressure on prices will complicate policymakers next move on borrowing costs.\r\nPric… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Philip van Doorn",
+            "title": "Here are the 20 best performing stocks of March — and the 20 worst - MarketWatch",
+            "description": "Investors have been moving money back into tech stocks and other sectors, while leaning away from financials",
+            "url": "https://www.marketwatch.com/story/here-are-the-20-best-performing-stocks-of-march-and-the-20-worst-2f6358ea",
+            "urlToImage": "https://images.mktw.net/im-755024/social",
+            "publishedAt": "2023-03-31T12:08:00Z",
+            "content": "Technology stocks have dominated during March, with remarkable gains for a sector that tumbled last year. Meanwhile, two high-profile bank failures have taken their toll on the financial sector but m… [+18448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin",
+            "title": "Stocks making the biggest moves premarket: Bed Bath & Beyond, Nikola, Virgin Orbit and more - CNBC",
+            "description": "These are the stocks posting the largest moves before the bell.",
+            "url": "https://www.cnbc.com/2023/03/31/stocks-making-the-biggest-moves-premarket-bbby-nklavorb.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190630-1675815991988-gettyimages-1463908560-_maz5731-4.jpeg?v=1680264322&w=1920&h=1080",
+            "publishedAt": "2023-03-31T12:05:22Z",
+            "content": "Check out the companies making headlines before the bell.\r\nBed Bath &amp; Beyond Bed Bath &amp; Beyond shares dipped 2% before the bell, building on a more than 26% loss from Thursday's session. The … [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Kristen Altus",
+            "title": "Tech expert gives AI wake-up call: 'Wolf'' is here - Fox Business",
+            "description": "With AI tools proven to be unreliable and not particularly truthful, is it time to put a pause on its revolution? Tech experts and academics Pengcheng Shi and Gary Marcus discuss.",
+            "url": "https://www.foxbusiness.com/technology/tech-expert-ai-wake-up-call-wolf-here",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/CHAT-GPT-AI-GETTY.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-31T11:47:18Z",
+            "content": "Over the next five years, hundreds of millions of white collar workers around the world will see their jobs get replaced by the leading innovation in the tech sector: AI. But one technology expert ha… [+3692 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shares and bonds ride high after soothing euro zone data - Reuters",
+            "description": "From a red-hot January as China cast off COVID curbs to February's flop when interest rates surged and now a manic March of banking blow-ups - financial markets have had an action-packed start to the year even by recent standards.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-03-31/",
+            "urlToImage": "https://www.reuters.com/resizer/ccdwwxsyJxwAS39hmIhBQ9JL5T8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FEMGZZILN5NWXI24UKTBAI43R4.jpg",
+            "publishedAt": "2023-03-31T11:47:00Z",
+            "content": "LONDON, March 31 (Reuters) - From a red-hot January as China cast off COVID curbs to February's flop when interest rates surged and now a manic March of banking blow-ups - financial markets have had … [+5050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": null,
+            "title": "Jetson hoverboard recall: Popular self-balancing Rogue board linked to fires, 2 deaths - WPVI-TV",
+            "description": "The CPSC says there have been multiple reports of the recalled scooters/hoverboards burning, sparking or melting, several of which involved reports of flames.",
+            "url": "https://6abc.com/jetston-hoverboard-recall-jetson-fire-lithium-batteries/13055555/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13055684_033123-wabc-jetson-hoverboard-img.jpg?w=1600",
+            "publishedAt": "2023-03-31T11:12:29Z",
+            "content": "WASHINGTON -- We have a recall alert for a popular hoverboard that was sold online and at Target stores.\r\nThe Consumer Product Safety Commission (CPSC) says the 42-volt Jetson Rogue self-balancing ho… [+949 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicole Goodkind",
+            "title": "Who will end up paying for the banking crisis: You - CNN",
+            "description": "It cost the Federal Deposit Insurance Corporation about $23 billion to clean up the mess that Silicon Valley Bank and Signature Bank left in the wake of their collapses earlier this month.",
+            "url": "https://www.cnn.com/2023/03/31/investing/premarket-stocks-trading/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230330181156-fdic-headquarters-dc-031323.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-31T11:12:00Z",
+            "content": "A version of this story first appeared in CNN Business Before the Bell newsletter. Not a subscriber? You can sign up right here. You can listen to an audio version of the newsletter by clicking the s… [+6800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "Silicon Valley Bank: What we learned, what’s next after the collapse - Fox Business",
+            "description": "Silicon Valley Bank's collapse is prompting scrutiny of the bank's poor risk management and regulators' failure to get the bank to change course before its implosion.",
+            "url": "https://www.foxbusiness.com/economy/silicon-valley-bank-what-we-learned-whats-next-after-the-collapse",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/Silicon-Valley-Bank-Collapse-15.jpg?ve=1&tl=1",
+            "publishedAt": "2023-03-31T11:01:33Z",
+            "content": "The collapse of Silicon Valley Bank has prompted scrutiny among federal regulators and lawmakers in Congress about what went wrong and raised questions regarding what legislative or regulatory reform… [+6254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Shirin Ghaffary",
+            "title": "Elon Musk wants to force people to pay for Twitter - Vox.com",
+            "description": "It’s a broken version of the digital town square.",
+            "url": "https://www.vox.com/technology/2023/3/31/23664041/elon-musk-twitter-checkmark-pay-to-play-subscription-twitter-blue",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gETH5TuxNC3mYcucw3tRrgIS0aM=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24549004/1246506636.jpg",
+            "publishedAt": "2023-03-31T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady, Julia Horowitz",
+            "title": "Post-2008 reforms didn't solve the problem of 'too big to fail' banks - CNN",
+            "description": "Regulation introduced after the 2008 financial crisis was supposed to make bank bailouts a thing of the past. But its biggest test so far has revealed some serious shortcomings.",
+            "url": "https://www.cnn.com/2023/03/31/investing/too-big-to-fail-banking-regulations/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230329144021-01-ubs-credit-suisse-switzerland-0319.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-31T10:41:00Z",
+            "content": "Regulation introduced after the 2008 financial crisis was supposed to make bank bailouts a thing of the past. But its biggest test so far has revealed some serious shortcomings.\r\nIn what feels like d… [+6822 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. advocacy group asks FTC to stop new OpenAI GPT releases - Reuters",
+            "description": "The tech ethics group Center for Artificial Intelligence and Digital Policy is asking the U.S. Federal Trade Commission to stop OpenAI from issuing new commercial releases of GPT-4, which has wowed some users and caused distress for others with its quick and …",
+            "url": "https://www.reuters.com/technology/us-advocacy-group-asks-ftc-stop-new-openai-gpt-releases-2023-03-30/",
+            "urlToImage": "https://www.reuters.com/resizer/t8vVhfGmVAL_TraxNwa0rS3gdEo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DCN7XURHJFK37CRPSQ2X4V7XVI.jpg",
+            "publishedAt": "2023-03-31T10:34:00Z",
+            "content": "WASHINGTON, March 30 (Reuters) - The tech ethics group Center for Artificial Intelligence and Digital Policy is asking the U.S. Federal Trade Commission to stop OpenAI from issuing new commercial rel… [+2127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "2023 has been bad for the bears. Here are 5 reasons why it’s going to get even worse. - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/2023-has-been-bad-for-the-bears-here-are-5-reasons-why-its-going-to-get-even-worse-4bc10c72",
+            "urlToImage": "https://images.mktw.net/im-754945/social",
+            "publishedAt": "2023-03-31T10:24:00Z",
+            "content": "Fridays session sees the end of the week, month and quarter. And what a quarter!It contained bank failures that may deliver a credit crunch and worsen the expected economic downturn, thereby whacking… [+6595 chars]"
+        }
+    ]
+}
