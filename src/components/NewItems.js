@@ -6,7 +6,8 @@ export class NewItems extends Component {
     return (
       <div>
         <div className="card my-3" style={{width: "18rem"}}>
-          <img src={newsImage} className="card-img-top" alt="..." />
+         
+          <a rel="noreferrer" href={url} target="_blank"> <img src={newsImage} className="card-img-top" alt="..." /></a>
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
             <p className="card-text">
