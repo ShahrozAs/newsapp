@@ -19,7 +19,13 @@ async componentDidMount() {
     loading:true
   });
   const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=1&pageSize=${this.props.pagesize}`);
+<<<<<<< HEAD
  
+=======
+  this.setState({
+    loading:true
+  });
+>>>>>>> 5c0a608bc0d23a244fc837b9bbe79fc93aa195af
   const data = await response.json();
   this.setState({ articles: data.articles,
     TotalResult:data.totalResult,
@@ -30,6 +36,7 @@ handlePrevClick=async()=>{
   console.log("prvious");
   this.setState({loading:true});
   const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=${this.state.page-1}&pageSize=${this.props.pagesize}`);
+  this.setState({loading:true});
   const data = await response.json();
   this.setState({
     page:this.state.page-1,
@@ -42,6 +49,7 @@ handlePrevClick=async()=>{
     console.log("Next");
     this.setState({loading:true});
     const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=${this.state.page+1}&pageSize=${this.props.pagesize}`);
+    this.setState({loading:true})
     const data = await response.json();
     this.setState({
       page:this.state.page+1,
