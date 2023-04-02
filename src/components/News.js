@@ -1,24 +1,50 @@
 import React, { Component } from 'react'
 import NewItems from './NewItems'
-
+//let {pagesize}=this.props;
 export class News extends Component {
   
 constructor(){
   super();
  this.state={
-  articles:[]
+  articles:[],
+  page:1,
+
  }
 }
-async componentDidMount() {
-  const response = await fetch("https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c");
-  const data = await response.json();
-  this.setState({ articles: data.articles });
-}
 
+async componentDidMount() {
+  const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=1&pageSize=${this.props.pagesize}`);
+  const data = await response.json();
+  this.setState({ articles: data.articles,TotalResult:data.totalResult});
+}
+handlePrevClick=async()=>{
+  console.log("prvious");
+  const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=${this.state.page-1}&pageSize=${this.props.pagesize}`);
+  const data = await response.json();
+  this.setState({
+    page:this.state.page-1,
+     articles: data.articles
+    })
+}
+ handleNextClick=async()=>{
+   if (this.state.page+1>Math.ceil(this.state.TotalResult/this.props.pagesize)) {
+     
+  }
+  else{
+    console.log("Next");
+    const response = await fetch(`https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=8c5e5ec518bc4fe29c8f9469a9bd9d1c&page=${this.state.page+1}&pageSize=${this.props.pagesize}`);
+    const data = await response.json();
+    this.setState({
+      page:this.state.page+1,
+      articles: data.articles
+    })
+  }
+}
   render() {
     return (
       <div className='container my-3'>
-        <h1>NewsMonkey - Top Headlines</h1>
+        <h1 className="text-center">NewsMonkey - Top Headlines</h1>
+      
         <div className="row my-3" >
           {this.state.articles.map((element)=>{
 
@@ -28,6 +54,12 @@ async componentDidMount() {
           })}
         
         </div>
+
+          <div className="container d-flex justify-content-between my-3" >
+          <button disabled={this.state.page<=1} type="button" className="btn btn-dark" onClick={this.handlePrevClick}>	&larr; Previous</button>
+          <button disabled={this.state.page+1>Math.ceil(this.state.TotalResult/this.props.pagesize)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &rarr;</button>
+
+          </div>
 
       </div>
     )
