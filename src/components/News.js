@@ -70,7 +70,7 @@ handlePrevClick=async()=>{
           {!this.state.loading&& this.state.articles.map((element)=>{
 
            return <div className="col-md-4" key={element.url}>
-            <NewItems title={element.title} description={element.description} newsImage={element.urlToImage} url={element.url}/>
+            <NewItems title={element.title} description={element.description} newsImage={element.urlToImage} url={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
             </div>
           })}
         
