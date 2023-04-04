@@ -6,11 +6,11 @@ export class NewItems extends Component {
     return (
       <div>
         <div className="card my-3">
-        <span class="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{zIndex:'10',left:'90%'}}>
+        <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{zIndex:'10',left:'90%'}}>
         {source}
    
   </span>
-          <a rel="noreferrer" href={url} target="_blank"> <img src={newsImage} className="card-img-top" alt="..." /></a>
+          <a rel="noreferrer" href={url} target="_blank"> <img src={!newsImage?"https://community.spotify.com/t5/image/serverpage/image-id/106208i2C0401950E6463A4/image-size/medium?v=v2&px=400":newsImage} className="card-img-top" alt="..." /></a>
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
             <p className="card-text">
